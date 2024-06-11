@@ -10,15 +10,18 @@ export default function Hero() {
       />
       <div className="bg-black/30 absolute top-0 left-0 w-full h-screen " />
       <div className="absolute top-0 w-full h-full flex flex-col justify-center text-white">
-        <div>
+        <div className="md: left-[10%] max-w-[1100px] m-auto absolute p-4">
           <p>All Inclusive</p>
-          <h1>Private Beaches & Getaways</h1>
-          <p>
+          <h1 className="font-bold text-5xl md:text-7xl drop-shadow-2xl">
+            Private Beaches & Getaways
+          </h1>
+          <p className="max-w-[600px] drop-shadow-2xl py-4 text-xl">
             RXJS (Reactive Extensions for JavaScript) is a library for composing
             asynchronous and event-based programs using observable sequences. It
             provides an easy way to create and work with streams of data in a
             functional programming style.
           </p>
+          <button className="bg-white text-black">Reserve Now</button>
         </div>
       </div>
     </div>
