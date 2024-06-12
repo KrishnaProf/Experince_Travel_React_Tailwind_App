@@ -7,7 +7,7 @@ const Rooms = () => {
         <h3 className="text-2xl font-bold">Fine Interior Rooms</h3>
         <p className="pt-4">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error ipsam
-          rerum iusto excepturi similique minus?
+          rerum iusto excepturi similique minus ?
         </p>
       </div>
 
