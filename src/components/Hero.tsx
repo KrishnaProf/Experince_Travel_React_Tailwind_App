@@ -19,7 +19,7 @@ export default function Hero() {
             RXJS (Reactive Extensions for JavaScript) is a library for composing
             asynchronous and event-based programs using observable sequences. It
             provides an easy way to create and work with streams of data in a
-            functional programming style.
+            functional programming style. 
           </p>
           <button className="bg-white text-black">Reserve Now</button>
         </div>
